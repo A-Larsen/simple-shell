@@ -14,11 +14,12 @@ This is a very simple shell program
 	```
 	synopsis:
 	
-	.echo *string to print to console*
+	.echo *strings to print to console*
 
 	```
 	
-	the string can be with or without quotes
+	the strings can be with or without quotes. This command can take any number
+	of arguments
 
 
 - .help
